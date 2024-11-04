@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditi Tanksale 
-- 👀 I’m interested in web development and java development 
+- 👀 I’m interested in web development and java development and also in Machine Learning
 - 🌱 I’m currently learning html and js 
 
 <!---

@@ -1,4 +1,4 @@
-![logo](https://github.com/AD5224/AD5225/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/AD5224/AD5224/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Aditi Tanksale</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
